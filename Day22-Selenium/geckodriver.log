@@ -1,0 +1,52 @@
+1676996349363	geckodriver	INFO	Listening on 127.0.0.1:55103
+1676996352432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55104" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mangesh\\AppData\\Local\\Temp\\rust_mozprofileCZvwXH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1676996353335	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1676996353345	Marionette	INFO	Listening on port 55111
+Read port: 55111
+WebDriver BiDi listening on ws://127.0.0.1:55104
+1676996353627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mangesh\\AppData\\Local\\Temp\\rust_mozprofileCZvwXH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55104/devtools/browser/9730b7dd-29e8-4b36-8ffa-e4be251f7397
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 1307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 7178 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/tZsXipaSZXHHcL3TzAhvrOIdSpwDyJfWMGTb_6xT6xM.js line 2 > eval line 5676 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1677657463031	geckodriver	INFO	Listening on 127.0.0.1:49679
+1677657466112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Mangesh\\AppData\\Local\\Temp\\rust_mozprofilebiTB1r"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1677657467109	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1677657467121	Marionette	INFO	Listening on port 49694
+Read port: 49694
+WebDriver BiDi listening on ws://127.0.0.1:49680
+1677657467439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mangesh\\AppData\\Local\\Temp\\rust_mozprofilebiTB1r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49680/devtools/browser/87857d66-e57b-4965-8581-8673dea22da3
+1677657477269	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1677657477279	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/U1KVG_mJ4Y43Q94sC__L5Y27Ilp_TqM8IF3zBLVmW9g.js line 2 > eval line 1496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1677658015382	Marionette	INFO	Stopped listening on port 49694
+Dynamically enable window occlusion 1
